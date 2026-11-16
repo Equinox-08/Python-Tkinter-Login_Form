@@ -14,7 +14,7 @@ developed using Python and Tkinter.
 ## Developer Information
 Full Name: Adrian J. Tor
 Course and Year: BS Infotech (Software Engineering)
-Subject: ct5
+Subject: CT5
 
 ## Login Credentials
 Username: admin
